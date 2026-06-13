@@ -1,1 +1,1 @@
-# Phising-Simulator
+# Phishing-Simulator
